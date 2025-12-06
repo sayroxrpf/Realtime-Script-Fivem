@@ -1,0 +1,14 @@
+fx_version 'cerulean'
+author 'sayrox.rpf'
+discord 'sayrox.rpf'
+description 'Realtime Sync'
+game 'gta5'
+version '1.0.0'
+
+client_scripts {
+    'client/main.lua',
+}
+
+server_scripts {
+    'server/server.lua'
+}
