@@ -22,11 +22,13 @@ Die Uhr in GTA V läuft exakt wie die Systemzeit des PC/Servers, auf dem dein Fi
    
 2. In den Server-resources-Ordner legen:
 
-resources/Realtime-Script-Fivem
+   ```bash
+   resources/Realtime-Script-Fivem
 
 3. In der server.cfg aktivieren:
 
-ensure Realtime-Script-Fivem
+   ```bash
+   ensure Realtime-Script-Fivem
 
 
 📜 Wie es funktioniert
