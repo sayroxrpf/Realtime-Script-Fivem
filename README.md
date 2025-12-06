@@ -1,43 +1,50 @@
-# 🕒 Real-Time Server Time Sync – FiveM Script  
+# 🕒 Real-Time Server Time Sync – FiveM Script
 
-Ein extrem leichtes FiveM-Script, das die **Ingame-Zeit automatisch mit der echten Zeit des Servers** synchronisiert.  
-Die Uhr in GTA V läuft exakt wie die Systemzeit des PC/Servers, auf dem dein FiveM-Server läuft.
+An extremely lightweight FiveM script that automatically synchronizes the **in-game time with the server's real-time time**.
+
+The clock in GTA V runs exactly like the system time of the PC/server running your FiveM server.
+
 
 ---
 
 ## ✨ Features
-- 🕒 Sync der ingame Zeit mit der **echten lokalen Systemzeit**  
-- ⚡ Läuft automatisch & ohne spürbare Performancekosten  
-- 🔧 Plug & Play – kein Config-Aufwand  
-- 🔄 Kontinuierliche Aktualisierung der Zeit  
-- 🧩 Funktioniert mit ESX, QBCore, Standalone oder jedem anderen Setup  
+- 🕒 Syncs in-game time with the **real local system time**
+- ⚡ Runs automatically & without noticeable performance impact
+- 🔧 Plug & Play – no configuration required
+- 🔄 Continuous time updates
+- 🧩 Works with ESX, QBCore, standalone, or any other setup
 
 ---
 
 ## 📦 Installation
 
-1. Script herunterladen oder klonen:
-   ```bash
-   git clone https://github.com/DEINNAME/realtime-server-time-sync
-   
-2. In den Server-resources-Ordner legen:
+1. Download or clone the script:
 
    ```bash
+
+   git clone https://github.com/YOURNAME/realtime-server-time-sync
+
+2. Place it in the server resources folder:
+
+   ```bash
+
    resources/Realtime-Script-Fivem
 
-3. In der server.cfg aktivieren:
+3. Enable it in the server.cfg file:
 
    ```bash
+
    ensure Realtime-Script-Fivem
 
-
-📜 Wie es funktioniert
+📜 How it works
 
 🖥 Server:
-Der Server holt sich regelmäßig die echte Uhrzeit von dem PC, auf dem der FiveM-Server läuft, und sendet diese an die Clients.
+
+The server regularly retrieves the real time from the PC running the FiveM server and sends it to the clients.
 
 🎮 Client:
-Der Client setzt die ingame Zeit exakt auf diese Werte — absolut synchron für alle Spieler.
+
+The client sets the in-game time to these values ​​exactly—perfectly synchronized for all players.
 
 🤝 Support
 
