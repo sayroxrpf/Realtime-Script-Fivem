@@ -48,6 +48,6 @@ The client sets the in-game time to these values ​​exactly—perfectly synch
 
 🤝 Support
 
-Discord: sayrox.rp
+Discord: sayrox.rpf
 
 ![FiveM](https://img.shields.io/badge/FiveM-Resource-blue) ![Status](https://img.shields.io/badge/Status-Stable-brightgreen) ![Version](https://img.shields.io/badge/Version-1.0.0-orange) ![Sync](https://img.shields.io/badge/Sync-Real%20Server%20Time-blue)
