@@ -41,4 +41,4 @@ Der Client setzt die ingame Zeit exakt auf diese Werte — absolut synchron für
 
 Discord: sayrox.rp
 
-![FiveM](https://img.shields.io/badge/FiveM-Resource-blue)  ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)  ![Version](https://img.shields.io/badge/Version-1.0.0-orange)  ![Sync](https://img.shields.io/badge/Sync-Real%20Server%20Time-blue)
+![License](https://img.shields.io/badge/License-MIT-green.svg) ![FiveM](https://img.shields.io/badge/FiveM-Resource-blue) ![Status](https://img.shields.io/badge/Status-Stable-brightgreen) ![Version](https://img.shields.io/badge/Version-1.0.0-orange) ![Sync](https://img.shields.io/badge/Sync-Real%20Server%20Time-blue)
